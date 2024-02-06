@@ -1,4 +1,4 @@
 ls
 echo "HELLO WORLD"
-Touch folder.txt
+touch folder.txt
 ls
