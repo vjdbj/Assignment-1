@@ -1,4 +1,4 @@
 ls
 echo "HELLO WORLD"
-touch Reader.txt
+touch file.txt
 ls
