@@ -1,4 +1,4 @@
 ls
 echo "HELLO WORLD"
-touch Header.txt
+touch file.txt
 ls
