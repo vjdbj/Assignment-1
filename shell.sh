@@ -1,4 +1,4 @@
 ls
 echo "HELLO WORLD"
-touch quote.txt
+touch lmnt.txt
 ls
