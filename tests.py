@@ -1,4 +1,4 @@
-import python-code
+import python_code
 
 def test_add():
     assert your_python_code.add(1, 2) == 3
